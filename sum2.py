@@ -86,5 +86,3 @@
 # print(car.color_())
 # print(car.age_())
 # print(car.seats_())
-
-# print(car.car_life())
