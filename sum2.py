@@ -88,6 +88,3 @@
 # print(car.seats_())
 
 # print(car.car_life())
-
-
-# print("Hello")
